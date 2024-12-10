@@ -23,16 +23,17 @@ const About = () => {
 
         <p className="mb-4">
           Proficient in cutting-edge technologies like ReactJS, NextJS, NodeJS,
-          and MongoDB, I excel in developing modern web and mobile solutions. My
-          passion lies in clean, maintainable code and delivering projects that
-          not only meet but exceed client expectations.
+          MongoDB, Solana, and Solidity, I excel in developing modern web,
+          mobile, and blockchain solutions. My passion lies in clean,
+          maintainable code and delivering projects that not only meet but
+          exceed client expectations.
         </p>
 
         <p className="mb-4 py-6">
-          With a background in full-stack development and leadership roles, I
-          thrive on collaboration and driving efficiency in every stage of the
-          development lifecycle. Let’s connect and create transformative
-          solutions together.
+          With a background in full-stack development, blockchain integration,
+          and leadership roles, I thrive on collaboration and driving efficiency
+          in every stage of the development lifecycle. Let’s connect and create
+          transformative solutions together.
         </p>
       </div>
 

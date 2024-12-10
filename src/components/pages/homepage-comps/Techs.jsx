@@ -16,6 +16,8 @@ import mongoDB from "../../../assets/mongoDB.svg";
 import postgres from "../../../assets/postgres.png";
 import django from "../../../assets/django.png";
 import cicd from "../../../assets/cicd.png";
+import solana from "../../../assets/solana.png";
+import solidity from "../../../assets/solidity.svg";
 
 import { Link as ScrollLink } from "react-scroll";
 
@@ -46,7 +48,16 @@ const Techs = () => {
       title: "Next JS",
       style: "shadow-white",
     },
-
+    {
+      src: solana,
+      title: "Solana",
+      style: "shadow-blue-400",
+    },
+    {
+      src: solidity,
+      title: "Solidity",
+      style: "shadow-gray-400",
+    },
     {
       src: tailwind,
       title: "Tailwind CSS",

@@ -36,22 +36,30 @@ const projects = [
   },
   {
     id: 5,
-    title: "Therocks",
+    title: "Koromaru",
     description:
-      "Elevate your weekend with journey through NSW's finest vineyards. The Rocks Markets invites you to sip, savor, and swirl your way through a curated selection of exquisite wines.",
-    technologies: "Javascript, React, Tailwind CSS",
-    src: "/images/projectsImages/therocks.jpg",
-    demo: "https://www.therocks.com/",
+      "Koromaru is a play-to-earn (P2E) battle game available on the Binance Smart Chain (BSC). It features captivating 2D and 3D fighting effects developed using Unity. The game is enhanced with the Universal Fighting Engine (UFE) for an improved gaming experience.",
+    technologies: "BSC, Solidity, Unreal Engine",
+    src: "/images/projectsImages/koromaru.png",
+    demo: "https://d3fqtz6zjfopso.cloudfront.net/",
   },
   {
     id: 6,
-    title: "Queen Garnet",
+    title: "Moduluc (Smart Contract Dev)",
     description:
-      "Find Rick and Morty's characters by dimension on this funny app.",
-    technologies: "Javascript, React, Tailwind CSS, Laravel",
-    src: "/images/projectsImages/queengarnet.jpg",
-    demo: "https://queengarnet.com/",
+      "Developed and deployed a variety of advanced smart contracts using Rust and Anchor for NFT swap, rental, staking, and breeding functionalities. These contracts are designed to facilitate seamless and secure interactions on the Solana blockchain, providing users with decentralized, automated solutions for trading, leasing, staking, and combining NFTs.",
+    technologies: "Solana, Node, Next",
+    src: "/images/projectsImages/modulu.png",
+    demo: "https://moduluc.com/",
   },
+  // {
+  //   id: 7,
+  //   title: "NFT Marketplace",
+  //   description:
+  //     "Developed and implemented a staking platform for Solana pNFT and MPL coreNFT, enabling users to securely stake. The project integrates advanced smart contract functionality, ensuring seamless interaction with Solana's blockchain. The platform supports decentralized asset management, providing a user-friendly command line interface for NFT staking.",
+  //   technologies: "Solana, Anchor, Web3",
+  //   src: "/images/projectsImages/nft.jpg",
+  // },
 ];
 
 export default projects;

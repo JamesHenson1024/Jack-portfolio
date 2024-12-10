@@ -11,7 +11,7 @@ const ProjectCard = ({ project, handleModalInfo }) => {
         onClick={() => handleModalInfo(project)}
         src={project.src}
         alt="project card"
-        className="rounded-md duration-200 hover:scale-105 cursor-pointer"
+        className="rounded-md object-cover duration-200 hover:scale-105 cursor-pointer"
       />
       <div className="flex items-center justify-center">
         <button
